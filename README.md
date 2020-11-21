@@ -1,4 +1,4 @@
-# Donate me
+# 💖 Donate me
 paypal - https://paypal.me/ashutosh7217723683?locale.x=en_GB
 ----------------------------------------------------------------
 # Linux All Basic to Advance commands
