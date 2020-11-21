@@ -11,9 +11,75 @@
 <ui>
   <li></li>
   <li></li>
-  </ui>
+</ui>
 <hr>
 <h2><b>3rd Basic system commands<b></h2>
+<ui>
+  <li></li>
+  <li></li>
+</ui>
+<hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
+<ui>
+  <li></li>
+  <li></li>
+  </ui>
+  <hr>
+<h2><b><b></h2>
 <ui>
   <li></li>
   <li></li>
