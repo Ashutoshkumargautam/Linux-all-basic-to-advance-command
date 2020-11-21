@@ -7,3 +7,10 @@
   <li>Milk</li>
 </ul>  
 <hr>
+<table>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+ </table>
